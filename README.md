@@ -8,4 +8,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0009-palindrome-number) |
+| [0507-perfect-number](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
