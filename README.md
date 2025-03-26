@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0009-palindrome-number) |
 | [0507-perfect-number](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0507-perfect-number) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Array
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0027-remove-element) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2478-longest-nice-subarray) |
@@ -103,6 +105,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3430-count-days-without-meetings](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+## Matrix
+|  |
+| ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
