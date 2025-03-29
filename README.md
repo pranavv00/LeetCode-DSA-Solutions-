@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0009-palindrome-number) |
 | [0507-perfect-number](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0507-perfect-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [3001-apply-operations-to-maximize-score](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3001-apply-operations-to-maximize-score) |
 ## Array
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2665-minimum-time-to-repair-cars](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2690-house-robber-iv) |
+| [3001-apply-operations-to-maximize-score](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0020-valid-parentheses) |
+| [3001-apply-operations-to-maximize-score](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3001-apply-operations-to-maximize-score) |
 ## Queue
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3001-apply-operations-to-maximize-score](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Matrix
@@ -122,4 +126,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+## Greedy
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3001-apply-operations-to-maximize-score) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3001-apply-operations-to-maximize-score) |
+## Number Theory
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
