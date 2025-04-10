@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0507-perfect-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3001-apply-operations-to-maximize-score) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Array
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0020-valid-parentheses) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Stack
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2262-solving-questions-with-brainpower) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Shortest Path
 |  |
 | ------- |
