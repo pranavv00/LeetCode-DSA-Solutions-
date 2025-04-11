@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0009-palindrome-number) |
 | [0507-perfect-number](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0507-perfect-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2998-count-symmetric-integers](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3001-apply-operations-to-maximize-score) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Array
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
