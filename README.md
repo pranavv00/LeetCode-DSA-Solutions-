@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0009-palindrome-number) |
 | [0507-perfect-number](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0507-perfect-number) |
+| [2050-count-good-numbers](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2998-count-symmetric-integers](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3001-apply-operations-to-maximize-score) |
@@ -195,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2280-count-good-triplets-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
