@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0797-rabbits-in-forest) |
 | [2050-count-good-numbers](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2998-count-symmetric-integers](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3001-apply-operations-to-maximize-score) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2262-solving-questions-with-brainpower) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Shortest Path
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3001-apply-operations-to-maximize-score) |
 ## Tree
 |  |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3548-find-the-count-of-good-integers) |
 ## Divide and Conquer
 |  |
