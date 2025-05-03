@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0027-remove-element) |
 | [0797-rabbits-in-forest](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0797-rabbits-in-forest) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1656-count-good-triplets](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/1656-count-good-triplets) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0797-rabbits-in-forest) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [3001-apply-operations-to-maximize-score](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
