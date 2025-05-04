@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0027-remove-element) |
 | [0797-rabbits-in-forest](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1656-count-good-triplets](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/1656-count-good-triplets) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2308-divide-array-into-equal-pairs) |
 ## Sliding Window
 |  |
