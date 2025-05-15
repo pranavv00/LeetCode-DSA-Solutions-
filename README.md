@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3001-apply-operations-to-maximize-score) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3430-count-days-without-meetings](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3430-count-days-without-meetings) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0038-count-and-say) |
 | [0868-push-dominoes](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0868-push-dominoes) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3637-count-number-of-balanced-permutations) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3637-count-number-of-balanced-permutations) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [3001-apply-operations-to-maximize-score](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3001-apply-operations-to-maximize-score) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Monotonic Stack
 |  |
 | ------- |
