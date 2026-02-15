@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0067-add-binary) |
 | [0507-perfect-number](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0507-perfect-number) |
 | [0797-rabbits-in-forest](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0797-rabbits-in-forest) |
 | [2050-count-good-numbers](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2050-count-good-numbers) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0067-add-binary) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0067-add-binary) |
 | [0868-push-dominoes](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0868-push-dominoes) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -288,5 +291,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0067-add-binary) |
 | [2048-build-array-from-permutation](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
