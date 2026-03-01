@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0067-add-binary) |
 | [0868-push-dominoes](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0868-push-dominoes) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Monotonic Stack
