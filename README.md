@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0067-add-binary) |
 | [0507-perfect-number](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0507-perfect-number) |
 | [0797-rabbits-in-forest](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0797-rabbits-in-forest) |
+| [1622-fancy-sequence](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/1622-fancy-sequence) |
 | [2050-count-good-numbers](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/1622-fancy-sequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2280-count-good-triplets-in-an-array) |
 | [3721-longest-balanced-subarray-ii](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3721-longest-balanced-subarray-ii) |
 ## Merge Sort
@@ -295,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0067-add-binary) |
 | [2048-build-array-from-permutation](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2048-build-array-from-permutation) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
