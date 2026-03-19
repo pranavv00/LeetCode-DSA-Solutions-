@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3430-count-days-without-meetings](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2249-count-the-hidden-sequences) |
 | [2915-count-of-interesting-subarrays](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2915-count-of-interesting-subarrays) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3639-zero-array-transformation-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3714-longest-balanced-substring-ii) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Heap (Priority Queue)
