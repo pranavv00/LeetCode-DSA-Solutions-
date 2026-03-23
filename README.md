@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1656-count-good-triplets](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/1656-count-good-triplets) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2048-build-array-from-permutation](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2048-build-array-from-permutation) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0799-champagne-tower) |
 | [0806-domino-and-tromino-tiling](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0868-push-dominoes) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/0945-snakes-and-ladders) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
