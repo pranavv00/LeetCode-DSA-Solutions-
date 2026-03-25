@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3430-count-days-without-meetings](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3546-equal-sum-grid-partition-i) |
 | [3639-zero-array-transformation-i](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3639-zero-array-transformation-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3721-longest-balanced-subarray-ii) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/2998-count-symmetric-integers) |
+| [3546-equal-sum-grid-partition-i](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3548-find-the-count-of-good-integers) |
 | [3713-longest-balanced-substring-i](https://github.com/pranavv00/LeetCode-DSA-Solutions-/tree/master/3713-longest-balanced-substring-i) |
 ## Combinatorics
